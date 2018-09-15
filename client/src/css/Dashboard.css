@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+
+.dashboard {
+  background-color: #AAA;
+  padding-top: 40px;
+  font-family: 'Arimo', sans-serif;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.dashboard .title {
+  text-align: center;
+  font-size: 25px;
+}
+
+
+.dashboard .back-button {
+  color: #DEDEDE;
+  margin-left: 40px;
+  width: 4%;
+}
+
+.dashboard .back-button:hover {
+  cursor: pointer;
+  color: white;
+}

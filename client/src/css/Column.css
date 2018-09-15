@@ -1,0 +1,47 @@
+.column {
+  display: inline-block;
+  width: 15.65vw;
+  text-align: center;
+  background-color: #DDD;
+
+  vertical-align: top;
+  padding: 0px;
+  margin: 0px;
+}
+
+.rushees * {
+  font-size: 16px;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  margin: 0px;
+
+  border-left: solid;
+  border-left-color: #AAA;
+  border-left-width: 1px;
+
+  border-right: solid;
+  border-right-color: #AAA;
+  border-right-width: 1px;
+}
+
+.rushees *:hover {
+  cursor: pointer;
+  background-color: #BBB;
+}
+
+.rushees {
+
+}
+
+.header {
+  border-width: 2px 1px 2px 1px;
+  border-style: solid;
+  border-color: #AAA;
+
+  font-size: 17.5px;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

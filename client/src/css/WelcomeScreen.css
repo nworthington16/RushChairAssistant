@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+
+.welcome-screen {
+  background-color: #AAA;
+  padding-top: 120px;
+  font-family: 'Arimo', sans-serif;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.welcome-screen .title {
+  text-align: center;
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+
+.welcome-screen .button {
+  text-align: center;
+  width: 100px;
+  padding: 6px;
+  margin: auto;
+
+  margin-bottom: 20px;
+
+  border-style: solid;
+
+  background: linear-gradient(150deg, #AAA, #CCC);
+}
+
+.welcome-screen .button:hover {
+  cursor: pointer;
+  background: linear-gradient(150deg, #BBB, #DDD)
+}

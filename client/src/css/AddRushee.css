@@ -1,0 +1,30 @@
+.add-rushee * {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.add-rushee {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.add-rushee .add-button {
+  font-size: 35px;
+  text-decoration: none;
+
+}
+
+.add-rushee .name-input {
+  width: 27vw;
+  height: 20px;
+}
+
+.add-rushee .gtid-input {
+  width: 27vw;
+  height: 20px;
+}
+
+.add-rushee .status-select {
+  width: 27vw;
+  height: 20px;
+}

@@ -1,0 +1,26 @@
+.view-select {
+  padding-top: 20px;
+  /* margin-left: 20vw; */
+}
+
+.view-select > div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+  width: 50vw;
+}
+
+.view-select .selected {
+  background-color: #AAA;
+}
+
+.view-select .unselected {
+  background-color: #999;
+}
+
+.view-select .unselected:hover {
+  background-color: #AAA;
+  cursor: pointer;
+}

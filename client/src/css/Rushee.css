@@ -1,0 +1,11 @@
+.rushee {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.rushee > a {
+  color: #AA0000;
+  text-decoration: none;
+  font-size: 18px;
+}
